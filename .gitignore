@@ -1,0 +1,6 @@
+allure-report/
+../diplom/allure-results/
+__pycache__/
+*.pyc
+.env .idea/
+.idea/
